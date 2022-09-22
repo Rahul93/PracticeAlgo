@@ -1,1 +1,3 @@
-# SPOJ-CODECHEF-COMPETITIVE
+# PracticeAlgo
+
+Practice of questions from geeksforgeeks
